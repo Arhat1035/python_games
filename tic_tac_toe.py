@@ -1,3 +1,6 @@
+#!/usr/bin/python 
+print 'Content-type:text/html\n
+
 from tkinter import *
 import random
 
